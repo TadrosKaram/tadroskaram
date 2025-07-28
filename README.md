@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mastering JS then the frameworks -> React.js, node.js also learning PHP as an extra back-end language by NTI training program**
 
-- 👨‍💻 All of my projects are available at [https://tadroskaram.github.io/](https://tadroskaram.github.io/)
+- 👨‍💻 Portfolio - All of my projects are available at [here](tadros.netlify.app)
 
 - 📫 How to reach me **tadroskaram20@gmail.com**
 
