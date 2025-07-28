@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tadroskaram.github.io/](https://tadroskaram.github.io/)
 
-- 📫 How to reach me **2100425@eng.asu.edu.eg**
+- 📫 How to reach me **tadroskaram20@gmail.com**
 
 - ⚡ Fun fact **Two years ago, I was in a coma and had zero knowledge or skills. Recovery took a full year, and during my second year, I poured my energy into learning everything I could — from scratch. The quote from Rocky: “It’s not about how hard you hit. It’s about how hard you can get hit and keep moving forward” kept me going. Now, I’m eager to grow even more. Every opportunity is a gift I don’t take for granted — and I’m fully committed to exceeding expectations with passion and resilience. ❤️**
 
