@@ -1,3 +1,4 @@
+<img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif">
 <h1 align="center">Hi 👋, I'm Tadros Karam</h1>
 <h3 align="center">💻 A passionate Computer Engineering undergraduate from Egypt 🇪🇬</h3>
 
