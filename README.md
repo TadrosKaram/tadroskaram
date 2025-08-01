@@ -1,4 +1,7 @@
-<img align="center" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" autoplay>
+<p align="center">
+  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="300"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Tadros Karam</h1>
 <h3 align="center">💻 A passionate Computer Engineering undergraduate from Egypt 🇪🇬</h3>
 
