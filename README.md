@@ -68,17 +68,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/>
 </p>
 
----
-
-### 📊 GitHub Stats (Optional)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tadroskaram&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadroskaram&theme=tokyonight" alt="streak" />
-</p>
-
----
 
 > *“Learning never exhausts the mind.” — Leonardo da Vinci*
